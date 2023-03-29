@@ -6,3 +6,4 @@ variable "env" {}
 variable "tags" {}
 variable "subnet_ids" {}
 variable "allow_subnets" {}
+variable "vpc_id" {}
