@@ -5,3 +5,4 @@ variable "node_type" {}
 variable "env" {}
 variable "tags" {}
 variable "subnet_ids" {}
+variable "allow_subnets" {}
